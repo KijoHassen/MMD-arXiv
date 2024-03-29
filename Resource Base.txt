@@ -1,0 +1,1 @@
+Here is the base of MMD resources, including models, addons, motion .vmd and so on.
